@@ -46,5 +46,5 @@ compileJava {
 application {
     // Define the main class for the application.
     mainClass = 'ku.decathlon.DecathlonService'
-    applicationDefaultJvmArgs = ['-Dport=9995']
+    applicationDefaultJvmArgs = ['-Dport=9998']
 }
